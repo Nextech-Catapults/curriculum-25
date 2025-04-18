@@ -5,8 +5,8 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1y8TuHrmh653oJLUQUb2xMT9pdtCr_xFHVFfe2KlGPN8/edit?usp=sharing) (make a copy for your program - upload the copy)
-- [Coding Exercise(s)](https://github.com/itscodenation/int-u2l1-23-24-exercises)
+- [Slides](https://docs.google.com/presentation/d/1EzI2GJ-10m5A7qR-_m84-Xm7F26tiLESXTyeIxjPVQY/copy) (make a copy for your own edits)
+- [Coding Exercise(s)](https://github.com/Nextech-Catapults/int-u2l1-student-exercises)
 
 📝 Upload as Assignment in Google Classroom (5 points):
 - [Exit Ticket](https://forms.gle/8mhf4mwtmKMVJSbN6) (DO NOT MAKE A COPY - upload as link)
