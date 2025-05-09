@@ -5,11 +5,10 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/199pOWeWNW_t0tJDaBauQSb-8MF1vCy0PApB8XlRhLXs/edit?usp=sharing) (make a copy for your program - upload the copy)
-- [Coding Exercise(s)](https://github.com/itscodenation/int-u2l4-23-24-student-exercises)
+- [Slides](https://docs.google.com/presentation/d/1ymIB-tQHuNU-OJ8XUyjNJhzPLy9gmhwjdro1s2yYIZU/copy) (make a copy for your program - upload the copy)
+- [Coding Exercise(s)](https://github.com/Nextech-Catapults/int-u2l4-student-exercises)
 
-📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket](https://forms.gle/wBjdvGZNWKG5JL2u8) (DO NOT MAKE A COPY - upload as link)
+📝 Upload as Assignment in Google Classroom (5 points)
 
 <br>
 
