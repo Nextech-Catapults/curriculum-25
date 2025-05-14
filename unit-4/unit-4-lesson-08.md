@@ -5,12 +5,11 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1BcZyV8kcDCSwLPoZalytBCzzXHQeh0ZAD7Z_NOUeO-Y/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Slides](https://docs.google.com/presentation/d/1Z5PTnI8zeHylo01sVUBna5puBOO5fnPM_gGjnsFUbHA/copy) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will start their unit project.
 
 📝 Upload as Assignment in Google Classroom (Ungraded):
 - [Unit 4 Project Plan](https://docs.google.com/document/d/1FAzo2G9BIOON8ixPOv2jNTg21XXUqrQUWa7DfFG8lA8/edit?usp=sharing) (choose the dropdown option: "Make a copy for each student")
-- [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8) (DO NOT MAKE A COPY - upload as link)
 
 <br>
 
