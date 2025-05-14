@@ -5,14 +5,10 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1Ed0KY5cWTN1iIdh8PbgJ-_7MENMCv8jbh8hTRO17GBA/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Slides](https://docs.google.com/presentation/d/1mV9XG2aHmutlYfh7ASUSr2KaX_sp6YU-kLJfHLDntoI/edit?usp=sharing) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will work on their projects.
 
-📝 Upload as Assignment in Google Classroom (Ungraded):
-- [Project Presentation Template](https://docs.google.com/document/d/17_7gXoUkwDxjCXhQwP-1e8Km3jUlXBVROmhUKEUp9Ds/edit?usp=sharing) (choose the dropdown option: "Make a copy for each student")
-
-📝 Upload as Assignment in Google Classroom (Ungraded):
-- [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8) (DO NOT MAKE A COPY - upload as link)
+📝 Upload as Assignment in Google Classroom
 
 <br>
 
