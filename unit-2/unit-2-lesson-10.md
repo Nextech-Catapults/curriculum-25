@@ -10,7 +10,6 @@
 
 📝 Upload as Assignment in Google Classroom (Ungraded):
 - [Unit 2 Project Plan](https://docs.google.com/document/d/1VKah1XPtkCOXuHCE2CpxLuP3DC91c4n9CFlHTHHZiqI/edit?usp=sharing) (choose the dropdown option: "Make a copy for each student")
-- [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8) (DO NOT MAKE A COPY - upload as link)
 
 
 <br>
