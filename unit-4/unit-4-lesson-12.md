@@ -8,14 +8,9 @@
 - [Presentation Project Link Template](https://docs.google.com/document/d/1j6Fe0rAaTeaxLLfhkqJLmDO82kweSKtV0zcQlVdreyo/edit?usp=sharing) (make a copy for your program - link on the Do Now slide)
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1ubrPxMTzd2eoizgXT0wKLyphqze2gIZh1HcqvLlo2Ks/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Slides](https://docs.google.com/presentation/d/13_HAQ1z6LB-auF9ZpOKQP2MSD9bLiHcwa-ulkpUvnPY/copy) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will present their projects.
 
-📝 Upload as Assignment in Google Classroom (Ungraded):
-- [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8) (DO NOT MAKE A COPY - upload as link)
-- [Unit 4 Survey](https://forms.gle/8sZ8Cz6TWYYXSoLj7) (DO NOT MAKE A COPY - upload as link)
- - This is an important data point - please make sure this is completed.
- - If a student is absent on this, follow up with them for completion.
 <br>
 
 
