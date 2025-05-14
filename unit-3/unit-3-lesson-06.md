@@ -5,9 +5,8 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1tvTA42l8QsUYSWFXgwFcuY51zxoYa1PPWQqB-MFeggA/edit?usp=sharing) (make a copy for your program - upload the copy)
-- [Do Now](https://docs.google.com/forms/d/12W3wbo73KmcgN4LQVOrNVgfAREBpQ0kBNymqyIc7xIc/copy) (make a copy for your program - upload the copy)
-- [Coding Exercise(s)](https://github.com/itscodenation/int-u3l6-23-24-student-exercises)
+- [Slides](https://docs.google.com/presentation/d/1y_7hW0Xc-OULL9EjIXfcJmPpSKdltrutJ8-zGz8hXrs/copy) (make a copy for your program - upload the copy)
+- [Coding Exercise(s)](https://github.com/Nextech-Catapults/int-u3l6-student-exercises)
 
 📝 Upload as Assignment in Google Classroom (5 points):
 - [Exit Ticket](https://forms.gle/xRZCHXSwVrjMafiXA) (DO NOT MAKE A COPY - upload as link)
