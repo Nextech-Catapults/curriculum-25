@@ -5,13 +5,10 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/11hf3wFXWKxJrTlPFOZiXeL_ASsTtvjvohVusUUyGARE/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Slides](https://docs.google.com/presentation/d/1c80tvcEAEt7WJYwIWz7lDFQ2O0GCzj2_bXB4iPh4dy8/copy) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will present their projects.
 
-📝 Upload as Assignment in Google Classroom (Ungraded):
-- [Unit 2 Survey](https://forms.gle/5srcNgLcHo64toVr5) (DO NOT MAKE A COPY - upload as link)
- - This is an important data point - please make sure this is completed.
- - If a student is absent on this, follow up with them for completion.
+📝 Upload as Assignment in Google Classroom
 <br>
 
 ## Key Points
