@@ -5,11 +5,8 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1_GWjUBsJ1xSZkJDezqThU25sQ1Xdr99jDMsC-WCge_Q/edit?usp=sharing) (make a copy for your program - upload the copy)
-- There are no coding exercises for this lesson. Students will continue project planning.
-
-📝 Upload as Assignment in Google Classroom (Ungraded):
-- [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8) (DO NOT MAKE A COPY - upload as link)
+- [Slides](https://docs.google.com/presentation/d/1ULTABnUoW9GK8F2Y18_9v4tPu3hO2UodrQuhi31nj60/copy) (make a copy for your program - upload the copy)
+- [Starter Code](https://github.com/Nextech-Catapults/int-u3-project-starter-code).
 
 
 
